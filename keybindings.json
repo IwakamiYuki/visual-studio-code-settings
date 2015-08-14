@@ -1,0 +1,38 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key":"ctrl+j",
+        "command":"cursorDown",
+        "when":"editorTextFocus"
+    },
+    {
+        "key":"ctrl+k",
+        "command":"cursorUp",
+        "when":"editorTextFocus"
+    },
+    {
+        "key":"ctrl+h",
+        "command":"cursorLeft",
+        "when":"editorTextFocus"
+    },
+    {
+        "key":"ctrl+l",
+        "command":"cursorRight",
+        "when":"editorTextFocus"
+    },
+    {
+        "key":"ctrl+0",
+        "command":"cursorHome",
+        "when":"editorTextFocus"
+    },
+    {
+        "key":"ctrl+shift+4",
+        "command":"cursorEnd",
+        "when":"editorTextFocus"
+    },
+    {
+        "key":"ctrl+x",
+        "command":"deleteRight",
+        "when":"editorTextFocus"
+    }
+]
